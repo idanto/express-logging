@@ -19,9 +19,7 @@
     "url": "https://github.com/1hanymhajna/express-logging/issues"
   },
   "homepage": "https://github.com/1hanymhajna/express-logging#readme",
-  "dependencies": {
-    "lodash": "4.17.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "coveralls": "2.13.1",
     "istanbul": "0.4.5",
